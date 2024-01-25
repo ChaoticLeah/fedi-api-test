@@ -1,8 +1,8 @@
 {
   "@context": "https://www.w3.org/ns/activitystreams",
-  "attributedTo": "https://github.com/ap/actor.json",
+  "attributedTo": "https://kevinwh0.github.io/fedi-api-test/ap/actor.json",
   "content": "awawa",
-  "id": "https://github.com/ap/note.json",
+  "id": "https://kevinwh0.github.io/fedi-api-test/ap/note.json",
   "published": "2038-01-19T03:14:07Z",
   "to": [
     "https://www.w3.org/ns/activitystreams#Public"

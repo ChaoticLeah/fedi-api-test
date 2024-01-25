@@ -1,11 +1,11 @@
 {
   "@context": "https://www.w3.org/ns/activitystreams",
-  "actor": "https://github.com/ap/actor.json",
-  "id": "https://github.com/ap/note-activity.json",
+  "actor": "https://kevinwh0.github.io/fedi-api-test/ap/actor.json",
+  "id": "https://kevinwh0.github.io/fedi-api-test/ap/note-activity.json",
   "object": {
-    "attributedTo": "https://github.com/ap/actor.json",
+    "attributedTo": "https://kevinwh0.github.io/fedi-api-test/ap/actor.json",
     "content": "awawa",
-    "id": "https://github.com/ap/note.json",
+    "id": "https://kevinwh0.github.io/fedi-api-test/ap/note.json",
     "published": "2038-01-19T03:14:07Z",
     "to": [
       "https://www.w3.org/ns/activitystreams#Public"

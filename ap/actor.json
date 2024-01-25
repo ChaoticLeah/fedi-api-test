@@ -2,15 +2,15 @@
   "@context": "https://www.w3.org/ns/activitystreams",
   "icon": {
     "type": "Image",
-    "url": "https://github.com/icon.png"
+    "url": "https://kevinwh0.github.io/fedi-api-test/icon.png"
   },
-  "id": "https://github.com/ap/actor.json",
+  "id": "https://kevinwh0.github.io/fedi-api-test/ap/actor.json",
   "image": {
     "type": "Image",
-    "url": "https://github.com/banner.png"
+    "url": "https://kevinwh0.github.io/fedi-api-test/banner.png"
   },
-  "inbox": "https://github.com/ap/inbox.json",
-  "outbox": "https://github.com/ap/outbox.json",
+  "inbox": "https://kevinwh0.github.io/fedi-api-test/ap/inbox.json",
+  "outbox": "https://kevinwh0.github.io/fedi-api-test/ap/outbox.json",
   "preferredUsername": "awawa",
   "summary": "awawa",
   "type": "Person"
