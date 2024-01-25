@@ -1,0 +1,17 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "icon": {
+    "type": "Image",
+    "url": "https://github.com/icon.png"
+  },
+  "id": "https://github.com/ap/actor.json",
+  "image": {
+    "type": "Image",
+    "url": "https://github.com/banner.png"
+  },
+  "inbox": "https://github.com/ap/inbox.json",
+  "outbox": "https://github.com/ap/outbox.json",
+  "preferredUsername": "awawa",
+  "summary": "awawa",
+  "type": "Person"
+}
