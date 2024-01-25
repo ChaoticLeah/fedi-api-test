@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "description": "awawa",
+    "maintainer": {
+      "email": "awawa@mia.jetzt",
+      "name": "awawa"
+    },
+    "name": "awawa",
+    "nodeDescription": "awawa",
+    "nodeName": "awawa",
+    "themeColor": "#F5ABB9"
+  },
+  "openRegistrations": false,
+  "protocols": [
+    "activitypub"
+  ],
+  "software": {
+    "name": "awawa",
+    "version": "awawa"
+  },
+  "version": "2.0"
+}
