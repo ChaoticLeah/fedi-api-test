@@ -4,6 +4,7 @@
 		"createdAt": "2024-01-25T12:32:38.824Z",
 		"userId": "9n2rfwgwhnrl0005",
 		"user": {
+			"@context": "https://www.w3.org/ns/activitystreams",
 			"id": "9n2rfwgwhnrl0005",
 			"name": "Hanna :v_trans:",
 			"username": "hanna",
