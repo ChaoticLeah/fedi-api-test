@@ -1,111 +1,110 @@
 {
-	"0": {
-		"id": "9owrdors69f02ex9",
-		"createdAt": "2024-01-25T12:32:38.824Z",
-		"userId": "9n2rfwgwhnrl0005",
-		"user": {
-			"@context": "https://www.w3.org/ns/activitystreams",
-			"id": "9n2rfwgwhnrl0005",
-			"name": "Hanna :v_trans:",
-			"username": "hanna",
-			"host": null,
-			"avatarUrl": "https://woem.men/proxy/avatar.webp?url=https%3A%2F%2Fwoem.men%2Ffiles%2Faf1a562c-7f05-44ad-80ee-ad3ace1ab4c2&avatar=1",
-			"avatarBlurhash": "eMPrwY~W8xV[.7_3IV-:NaV@IA%2%MNGtR={xuIpxsRkpHM|MyxsxD",
-			"description": "Heya! I'm Hanna. I'm a trans software engineer, system administrator, and LGBTQIA+ rights activist. I came out as trans in 2020 and finally started HRT since 2023-09-06. I am sapphic and aceflux, so respect my boundaries please.\n\n#nobot #noindex #trans #sapphic #demisexual #sysadmin",
-			"createdAt": "2023-12-10T08:01:34.496Z",
-			"avatarDecorations": [],
-			"isBot": false,
-			"isCat": false,
-			"noindex": false,
-			"isSilenced": false,
-			"speakAsCat": true,
-			"approved": true,
-			"followersCount": 0,
-			"followingCount": 0,
-			"notesCount": 6183,
-			"emojis": {
-				"v_trans": "https://woem.men/files/23aae976-2311-464b-8d90-af96e77e5798"
-			},
-			"onlineStatus": "online",
-			"badgeRoles": [
-				{
-					"name": "Admin",
-					"iconUrl": null,
-					"displayOrder": 10000
-				}
-			]
-		},
-		"text": "@zoe@snug.moe veto",
-		"cw": null,
-		"visibility": "public",
-		"localOnly": false,
-		"reactionAcceptance": "nonSensitiveOnly",
-		"renoteCount": 0,
-		"repliesCount": 1,
-		"reactions": {},
-		"reactionEmojis": {},
-		"fileIds": [],
-		"files": [],
-		"replyId": "9owr8ix37kbl2dix",
-		"renoteId": null,
-		"mentions": [
-			"9n2v39m023fd05re"
-		],
-		"clippedCount": 0,
-		"reply": {
-			"id": "9owr8ix37kbl2dix",
-			"createdAt": "2024-01-25T12:28:37.959Z",
-			"userId": "9n2v39m023fd05re",
-			"user": {
-				"id": "9n2v39m023fd05re",
-				"name": "Zoe :verified_trans:",
-				"username": "zoe",
-				"host": "snug.moe",
-				"avatarUrl": "https://woem.men/proxy/avatar.webp?url=https%3A%2F%2Fsnug.moe%2Ffiles%2F63e5c9bc-8811-465c-80ad-80ce49e0c8ee&avatar=1",
-				"avatarBlurhash": "elO3CNs;~qk8%g%NS4W-xaWVFyozxYR6sAkrj]s,fjRQpwWBoIs;jv",
-				"description": "🇳🇴🏳️‍⚧️ Autistic transfem nerd, in school to become a developer and systems engineer.\n\nAlso a furry :3\n\nMay occationally renote/post things in norwegian, due to the fact that i am indeed norwegian\n\n",
-				"createdAt": "2023-12-10T09:43:43.464Z",
-				"avatarDecorations": [],
-				"isBot": false,
-				"isCat": false,
-				"noindex": false,
-				"isSilenced": false,
-				"speakAsCat": false,
-				"approved": true,
-				"instance": {
-					"name": "Snugly Moe Moe",
-					"softwareName": "iceshrimp",
-					"softwareVersion": "2023.12.1",
-					"iconUrl": "https://snug.moe/static-assets/icons/192.png",
-					"faviconUrl": "https://snug.moe/files/c36be58c-b49e-41ef-8a0c-532df5ac8c08",
-					"themeColor": "#ffc4c4"
-				},
-				"followersCount": 0,
-				"followingCount": 0,
-				"notesCount": 920,
-				"emojis": {
-					"verified_trans": "https://snug.moe/files/b2d1a8c6-64b4-41a1-b180-b657388ec285"
-				},
-				"onlineStatus": "unknown"
-			},
-			"text": "@hanna@woem.men i would like to disagree",
-			"cw": null,
-			"visibility": "public",
-			"localOnly": false,
-			"reactionAcceptance": null,
-			"renoteCount": 0,
-			"repliesCount": 1,
-			"reactions": {},
-			"reactionEmojis": {},
-			"emojis": {},
-			"fileIds": [],
-			"files": [],
-			"replyId": "9ov6vmmf69f0266x",
-			"renoteId": null,
-			"mentions": [
-				"9n2rfwgwhnrl0005"
-			],
-			"uri": "https://snug.moe/notes/9owr8ix3lhdhuhbw"
-		}
-	}
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "9owrdors69f02ex9",
+    "createdAt": "2024-01-25T12:32:38.824Z",
+    "userId": "9n2rfwgwhnrl0005",
+    "user": {
+        "@context": "https://www.w3.org/ns/activitystreams",
+        "id": "9n2rfwgwhnrl0005",
+        "name": "Hanna :v_trans:",
+        "username": "hanna",
+        "host": null,
+        "avatarUrl": "https://woem.men/proxy/avatar.webp?url=https%3A%2F%2Fwoem.men%2Ffiles%2Faf1a562c-7f05-44ad-80ee-ad3ace1ab4c2&avatar=1",
+        "avatarBlurhash": "eMPrwY~W8xV[.7_3IV-:NaV@IA%2%MNGtR={xuIpxsRkpHM|MyxsxD",
+        "description": "Heya! I'm Hanna. I'm a trans software engineer, system administrator, and LGBTQIA+ rights activist. I came out as trans in 2020 and finally started HRT since 2023-09-06. I am sapphic and aceflux, so respect my boundaries please.\n\n#nobot #noindex #trans #sapphic #demisexual #sysadmin",
+        "createdAt": "2023-12-10T08:01:34.496Z",
+        "avatarDecorations": [],
+        "isBot": false,
+        "isCat": false,
+        "noindex": false,
+        "isSilenced": false,
+        "speakAsCat": true,
+        "approved": true,
+        "followersCount": 0,
+        "followingCount": 0,
+        "notesCount": 6183,
+        "emojis": {
+            "v_trans": "https://woem.men/files/23aae976-2311-464b-8d90-af96e77e5798"
+        },
+        "onlineStatus": "online",
+        "badgeRoles": [
+            {
+                "name": "Admin",
+                "iconUrl": null,
+                "displayOrder": 10000
+            }
+        ]
+    },
+    "text": "@zoe@snug.moe veto",
+    "cw": null,
+    "visibility": "public",
+    "localOnly": false,
+    "reactionAcceptance": "nonSensitiveOnly",
+    "renoteCount": 0,
+    "repliesCount": 1,
+    "reactions": {},
+    "reactionEmojis": {},
+    "fileIds": [],
+    "files": [],
+    "replyId": "9owr8ix37kbl2dix",
+    "renoteId": null,
+    "mentions": [
+        "9n2v39m023fd05re"
+    ],
+    "clippedCount": 0,
+    "reply": {
+        "id": "9owr8ix37kbl2dix",
+        "createdAt": "2024-01-25T12:28:37.959Z",
+        "userId": "9n2v39m023fd05re",
+        "user": {
+            "id": "9n2v39m023fd05re",
+            "name": "Zoe :verified_trans:",
+            "username": "zoe",
+            "host": "snug.moe",
+            "avatarUrl": "https://woem.men/proxy/avatar.webp?url=https%3A%2F%2Fsnug.moe%2Ffiles%2F63e5c9bc-8811-465c-80ad-80ce49e0c8ee&avatar=1",
+            "avatarBlurhash": "elO3CNs;~qk8%g%NS4W-xaWVFyozxYR6sAkrj]s,fjRQpwWBoIs;jv",
+            "description": "🇳🇴🏳️‍⚧️ Autistic transfem nerd, in school to become a developer and systems engineer.\n\nAlso a furry :3\n\nMay occationally renote/post things in norwegian, due to the fact that i am indeed norwegian\n\n",
+            "createdAt": "2023-12-10T09:43:43.464Z",
+            "avatarDecorations": [],
+            "isBot": false,
+            "isCat": false,
+            "noindex": false,
+            "isSilenced": false,
+            "speakAsCat": false,
+            "approved": true,
+            "instance": {
+                "name": "Snugly Moe Moe",
+                "softwareName": "iceshrimp",
+                "softwareVersion": "2023.12.1",
+                "iconUrl": "https://snug.moe/static-assets/icons/192.png",
+                "faviconUrl": "https://snug.moe/files/c36be58c-b49e-41ef-8a0c-532df5ac8c08",
+                "themeColor": "#ffc4c4"
+            },
+            "followersCount": 0,
+            "followingCount": 0,
+            "notesCount": 920,
+            "emojis": {
+                "verified_trans": "https://snug.moe/files/b2d1a8c6-64b4-41a1-b180-b657388ec285"
+            },
+            "onlineStatus": "unknown"
+        },
+        "text": "@hanna@woem.men i would like to disagree",
+        "cw": null,
+        "visibility": "public",
+        "localOnly": false,
+        "reactionAcceptance": null,
+        "renoteCount": 0,
+        "repliesCount": 1,
+        "reactions": {},
+        "reactionEmojis": {},
+        "emojis": {},
+        "fileIds": [],
+        "files": [],
+        "replyId": "9ov6vmmf69f0266x",
+        "renoteId": null,
+        "mentions": [
+            "9n2rfwgwhnrl0005"
+        ],
+        "uri": "https://snug.moe/notes/9owr8ix3lhdhuhbw"
+    }
 }
